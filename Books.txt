@@ -1,0 +1,10 @@
+Book's_ID,Book's_name,Author,Publication_year,Loan_type,Loan_status
+100.241T,Goal,Ben Tor,2000,1,Not Loaned
+3444446790,Goals,Shir Segal,2000,2,Not Loaned
+1000001-1,The Dead Sea Scrools,Unknown,-200,3,Not Loaned
+7777Ug555,The Winds of Tennur,Ben Green,1987,1,Not Loaned
+222226664,Gardom,Eli Tenenbaum,1972,2,Not Loaned
+33684Tg6,Critique of Pure Reason,Immanuel Kant,2013,2,Loaned
+9997,Blues,Trent Tok,1999,2,Loaned
+6767,Tree.House,Eren Yeger,1999,1,Loaned
+123456789,Shaa Aroka,Ben Hur,1978,1,Not Loaned

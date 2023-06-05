@@ -1,0 +1,4 @@
+Customer's_ID,Customer's_name,Book's_name,Book's_ID,Loan_date,Return_date
+44433998,Yoav Kotner,Critique of Pure Reason,33684Tg6,20-06-2022,25-06-2022
+4444,Yana Olm,Blues,9997,20-06-2022,25-06-2022
+333E3,Shalom Shalom,Tree.House,6767,20-06-2022,30-06-2022

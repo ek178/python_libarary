@@ -1,0 +1,10 @@
+Customers'_ID,Customer's_name,Customer's_city,Customers_age
+44433998,Yoav Kotner,Tel Aviv,55
+44433,Yoav Kotner,Tel Aviv,72
+44562231,Achmed Toli,Akko,33
+55529873,Yosef Nok,Haifa,22
+188423911,Oren Hermoni,Akko,55
+333E3,Shalom Shalom,Eilat,22
+4444,Yana Olm,Eilat,44
+33344E22,Hulio Jert,Negba,33
+345678,shaul shir,akko,23
